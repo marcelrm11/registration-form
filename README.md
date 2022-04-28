@@ -1,4 +1,15 @@
-# proyecto
+# registration-form
+
+## Project name
+```
+Registration Form:
+This is a registration form built with Vuejs.
+```
+
+## Contact Info
+```
+marcelrm11@gmail.com || Marcel Roig Medina
+```
 
 ## Project setup
 ```
